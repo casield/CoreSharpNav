@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "version": {
+      "snj": 3,
+      "sharpnav": "1.0.0"
+    }
+  },
+  "origin": {
+    "X": -3.847578,
+    "Y": -4.447578,
+    "Z": -17.860998
+  },
+  "tileWidth": 7.8,
+  "tileHeight": 36.0,
+  "maxTiles": 1.0,
+  "maxPolys": 2.0,
+  "tiles": [
+    {
+      "polyId": 2,
+      "location": {
+        "X": 0,
+        "Y": 0
+      },
+      "layer": 0,
+      "salt": 1,
+      "bounds": {
+        "Min": {
+          "X": -3.847578,
+          "Y": -4.447578,
+          "Z": -17.860998
+        },
+        "Max": {
+          "X": 3.9524221,
+          "Y": 4.552422,
+          "Z": 18.139002
+        }
+      },
+      "polys": [
+        {
+          "PolyType": 0,
+          "Links": [],
+          "Verts": [
+            0,
+            1,
+            2,
+            3,
+            0,
+            0
+          ],
+          "Neis": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Tag": null,
+          "VertCount": 4,
+          "Area": 255
+        },
+        {
+          "PolyType": 0,
+          "Links": [],
+          "Verts": [
+            4,
+            5,
+            6,
+            7,
+            0,
+            0
+          ],
+          "Neis": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Tag": null,
+          "VertCount": 4,
+          "Area": 255
+        }
+      ],
+      "verts": [
+        {
+          "X": -1.7475779,
+          "Y": -4.047578,
+          "Z": -16.060999
+        },
+        {
+          "X": -1.7475779,
+          "Y": -4.047578,
+          "Z": 16.039003
+        },
+        {
+          "X": 1.8524222,
+          "Y": -4.047578,
+          "Z": 16.039003
+        },
+        {
+          "X": 1.8524222,
+          "Y": -4.047578,
+          "Z": -16.060999
+        },
+        {
+          "X": -1.7475779,
+          "Y": 4.1524224,
+          "Z": -16.060999
+        },
+        {
+          "X": -1.7475779,
+          "Y": 4.1524224,
+          "Z": 16.039003
+        },
+        {
+          "X": 1.8524222,
+          "Y": 4.1524224,
+          "Z": 16.039003
+        },
+        {
+          "X": 1.8524222,
+          "Y": 4.1524224,
+          "Z": -16.060999
+        }
+      ],
+      "detailMeshes": [
+        {
+          "VertexIndex": 0,
+          "VertexCount": 0,
+          "TriangleIndex": 0,
+          "TriangleCount": 2
+        },
+        {
+          "VertexIndex": 0,
+          "VertexCount": 0,
+          "TriangleIndex": 2,
+          "TriangleCount": 2
+        }
+      ],
+      "detailVerts": [],
+      "detailTris": [
+        {
+          "VertexHash0": 3,
+          "VertexHash1": 0,
+          "VertexHash2": 2,
+          "Flags": 17
+        },
+        {
+          "VertexHash0": 0,
+          "VertexHash1": 1,
+          "VertexHash2": 2,
+          "Flags": 5
+        },
+        {
+          "VertexHash0": 3,
+          "VertexHash1": 0,
+          "VertexHash2": 2,
+          "Flags": 17
+        },
+        {
+          "VertexHash0": 0,
+          "VertexHash1": 1,
+          "VertexHash2": 2,
+          "Flags": 5
+        }
+      ],
+      "offMeshConnections": [],
+      "bvTree": {
+        "nodes": [
+          {
+            "Bounds": {
+              "Min": {
+                "X": 7,
+                "Y": 1,
+                "Z": 6
+              },
+              "Max": {
+                "X": 19,
+                "Y": 29,
+                "Z": 113
+              }
+            },
+            "Index": -3
+          },
+          {
+            "Bounds": {
+              "Min": {
+                "X": 7,
+                "Y": 1,
+                "Z": 6
+              },
+              "Max": {
+                "X": 19,
+                "Y": 2,
+                "Z": 113
+              }
+            },
+            "Index": 0
+          },
+          {
+            "Bounds": {
+              "Min": {
+                "X": 7,
+                "Y": 28,
+                "Z": 6
+              },
+              "Max": {
+                "X": 19,
+                "Y": 29,
+                "Z": 113
+              }
+            },
+            "Index": 1
+          },
+          {
+            "Bounds": {
+              "Min": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Max": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            "Index": 0
+          }
+        ]
+      },
+      "bvQuantFactor": 3.3333333,
+      "bvNodeCount": 4,
+      "walkableClimb": 0.9
+    }
+  ]
+}

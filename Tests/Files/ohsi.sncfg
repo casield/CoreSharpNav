@@ -1,0 +1,17 @@
+config:
+  cell-size: 0.3
+  cell-height: 0.2
+  max-climb: 0.9
+  agent-height: 2
+  agent-radius: 0.6
+  min-region-size: 8
+  merged-region-size: 20
+  max-edge-length: 12
+  max-edge-error: 1.8
+  verts-per-poly: 6
+  sample-distance: 6
+  max-sample-error: 1
+  build-bounding-volume-tree: true
+export: default.snb
+meshes:
+- path: C:\Users\Casiel\Desktop\ciberchico420\C#\SharpNav\Source\SharpNav.Tests/nav_test.obj

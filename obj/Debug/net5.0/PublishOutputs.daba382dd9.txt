@@ -1,0 +1,7 @@
+C:\Users\Casiel\Desktop\ciberchico420\Games\QuixPhysics\libs\CoreSharpNav.exe
+C:\Users\Casiel\Desktop\ciberchico420\Games\QuixPhysics\libs\CoreSharpNav.dll
+C:\Users\Casiel\Desktop\ciberchico420\Games\QuixPhysics\libs\CoreSharpNav.deps.json
+C:\Users\Casiel\Desktop\ciberchico420\Games\QuixPhysics\libs\CoreSharpNav.runtimeconfig.json
+C:\Users\Casiel\Desktop\ciberchico420\Games\QuixPhysics\libs\CoreSharpNav.pdb
+C:\Users\Casiel\Desktop\ciberchico420\Games\QuixPhysics\libs\Newtonsoft.Json.dll
+C:\Users\Casiel\Desktop\ciberchico420\Games\QuixPhysics\libs\YamlDotNet.dll
